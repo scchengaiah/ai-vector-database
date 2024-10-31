@@ -10,9 +10,13 @@
 
 ### Interesting Tools/References
 
+[Citus is a PostgreSQL extension that transforms Postgres into a distributed database—so you can achieve high performance at any scale.](https://github.com/citusdata/citus)
+
 [Yugabyte DB - Opensource high performance cloud native distributed PostgreSQL](https://github.com/yugabyte/yugabyte-db)
 
 [PostgreSQL ML - Machine learning extension for PostgreSQL that enables you to perform training and inference on text and tabular data using SQL queries](https://github.com/postgresml/postgresml)
+
+[Timescale AI Related Blogs on Postgresql](https://www.timescale.com/blog/tag/ai/)
 
 ### Videos
 
